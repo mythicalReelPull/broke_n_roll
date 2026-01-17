@@ -1,0 +1,6 @@
+1.	Cloning the repository: https://github.com/mythicalReelPull/broke_n_roll.git
+2.	cd project directory
+3.	Starting the application: start server by running GameServer.java : should output Database tables initialized.
+                                                                                      --- Broke & Roll Server Started ---
+                                                                                      All ears on port: 1234
+    then in the terminal’s project directory type : mvn java:fx to start the game, a login interface should pop-up
